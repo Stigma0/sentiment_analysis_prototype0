@@ -7,3 +7,5 @@ nltk~=3.8.1
 wordcloud~=1.9.2
 contractions~=0.1.73
 numpy~=1.24.3
+torch~=2.0.1
+transformers~=4.30.1
